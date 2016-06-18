@@ -3435,6 +3435,12 @@ input[type=range] + .thumb {
   width: 90%;
 }
 
+.container.teal {
+  margin: 0 auto;
+  width: 90%;
+  background-color: #008080;
+}
+
 @media only screen and (min-width: 601px) {
   .container {
     width: 85%;
